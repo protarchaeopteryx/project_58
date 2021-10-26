@@ -1,0 +1,43 @@
+img{
+  height: 180px;
+  border: solid;
+  border-radius:67px;
+  padding-left:54px;
+	text-shadow: 1px 1px #00c000;
+}
+#wq{
+  text-align:center;
+  background-image:linear-gradient(to bottom left ,#c23e45 ,#9553e4);
+    background-repeat:no-repeat;
+	font-family: 'Inconsolata', monospace;
+	padding-top: 54px;
+}
+h1{
+  text-shadow: 1px 1px #00a000;
+}
+p{
+	font-size: 20px;
+}
+#we{
+	font-size: 22px;
+  text-shadow: 1px 0px #121ea1;
+}
+#wer{
+	z-index: 2;
+	list-style: none;
+	position:absolute;
+	top: 10px;
+	right: 30px;
+	cursor: pointer;
+}
+.ids{
+	float: left;
+	font-family: 'Inconsolata', monospace;
+	padding-top: 10px;
+	padding-left: 7px;
+	padding-bottom: 30px;
+	padding-right: 4px;
+}
+.ids:hover{
+	background-color: orangered;
+}
